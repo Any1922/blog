@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Маслова Анна
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Maslova Ann
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Анна
+last_name: Маслова
 
 # Status emoji
 status:
@@ -17,34 +17,31 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студентка
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Российский университет дружбы народов
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Занимаюсь изучением программирования, информатики и математических наук.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Искусственный интеллект
+  - Программирование
+  - Операционные системы
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Студентка
+      institution: РУДН
+      year: 2023
+    - course: Студентка
+      institution: НИУ МЭИ
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Маслова Анна Павловна - студентка Российского университета дружбы народов. Учится на факультете физико-математических и естественных наук по направлению "Прикладная информатика". Закончила два курса НИУ МЭИ по программе "Приборостроение". Изучает программирование, работает с Linux. Интересуется такими языками программирования как С++ и Python. Также работает с языком разметки Markdown.
 {style="text-align: justify;"}
