@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: RUDN Student
+          company: RUDN University
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Moscow
+          date_start: '2023-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,13 +75,13 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: MEI Student
+          company: NEU MEI 
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Moscow
+          date_start: '2021-09-01'
+          date_end: '2023-06-25'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
@@ -98,33 +98,24 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.stepik.org
           date_end: ''
           date_start: '2021-01-25'
           description: ''
           icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Stepik
+          organization_url: https://www.stepik.org
+          title: Cybersecurity
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://education.astralinux.ru
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          description: 
           icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
+          organization: Astralinux
+          organization_url: https://education.astralinux.ru
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
     design:
       columns: '2'
   - block: collection
